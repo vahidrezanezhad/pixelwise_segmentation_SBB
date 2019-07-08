@@ -1,0 +1,21 @@
+{
+    "n_classes" : 6,
+    "n_epochs" : 20,
+    "input_height" : 448,
+    "input_width" : 448,
+    "weight_decay" : 1e-6,
+    "n_patches" : 10,
+    "n_batch" : 6,
+    "learning_rate": 1e-4,
+    "patches" : true,
+    "pretraining" : true,
+    "augmentation" : false,
+    "flip_aug" : false,
+    "elastic_aug" : false,
+    "blur_aug" : true,
+    "scaling" : false,
+    "binarization" : false,
+    "dir_train": "",
+    "dir_eval": "",
+    "dir_output": ""
+}
